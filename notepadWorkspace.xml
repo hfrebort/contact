@@ -1,0 +1,45 @@
+<NotepadPlus>
+    <Project name="contact">
+        <Folder name="app">
+            <Folder name="images">
+                <File name="app\images\yeoman.png" />
+            </Folder>
+            <Folder name="scripts">
+                <File name="app\scripts\app.js" />
+            </Folder>
+            <Folder name="styles">
+                <File name="app\styles\main.css" />
+            </Folder>
+            <Folder name="views">
+                <File name="app\views\login.html" />
+                <File name="app\views\main.html" />
+            </Folder>
+            <File name="app\.buildignore" />
+            <File name="app\.htaccess" />
+            <File name="app\404.html" />
+            <File name="app\favicon.ico" />
+            <File name="app\index.html" />
+            <File name="app\robots.txt" />
+        </Folder>
+        <Folder name="test">
+            <Folder name="spec">
+                <File name="test\spec\app.js" />
+            </Folder>
+            <File name="test\.jshintrc" />
+            <File name="test\karma.conf.js" />
+        </Folder>
+        <File name=".bowerrc" />
+        <File name=".editorconfig" />
+        <File name=".gitattributes" />
+        <File name=".gitignore" />
+        <File name=".jshintrc" />
+        <File name=".project" />
+        <File name=".travis.yml" />
+        <File name=".yo-rc.json" />
+        <File name="bower.json" />
+        <File name="contactWorkspace" />
+        <File name="Gruntfile.js" />
+        <File name="package.json" />
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>

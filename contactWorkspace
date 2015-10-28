@@ -1,0 +1,57 @@
+<NotepadPlus>
+    <Project name="contact">
+        <Folder name="app">
+            <Folder name="images">
+                <File name="app\images\yeoman.png" />
+            </Folder>
+            <Folder name="scripts">
+                <Folder name="controllers">
+                    <File name="app\scripts\controllers\main.js" />
+                    <File name="app\scripts\controllers\login.js" />
+                </Folder>
+                <File name="app\scripts\app.js" />
+                <Folder name="services">
+                    <File name="app\scripts\services\messageService.js" />
+                </Folder>
+            </Folder>
+            <Folder name="styles">
+                <File name="app\styles\main.css" />
+            </Folder>
+            <Folder name="views">
+                <File name="app\views\main.html" />
+                <File name="app\views\login.html" />
+            </Folder>
+            <File name="app\.buildignore" />
+            <File name="app\.htaccess" />
+            <File name="app\404.html" />
+            <File name="app\favicon.ico" />
+            <File name="app\index.html" />
+            <File name="app\robots.txt" />
+        </Folder>
+        <Folder name="test">
+            <Folder name="spec">
+                <Folder name="controllers">
+                    <File name="test\spec\controllers\login.js" />
+                    <File name="test\spec\controllers\main.js" />
+                </Folder>
+                <Folder name="services">
+                    <File name="test\spec\services\messageService.js" />
+                </Folder>
+            </Folder>
+            <File name="test\.jshintrc" />
+            <File name="test\karma.conf.js" />
+        </Folder>
+        <File name=".bowerrc" />
+        <File name=".editorconfig" />
+        <File name=".gitattributes" />
+        <File name=".gitignore" />
+        <File name=".jshintrc" />
+        <File name=".project" />
+        <File name=".travis.yml" />
+        <File name=".yo-rc.json" />
+        <File name="bower.json" />
+        <File name="Gruntfile.js" />
+        <File name="package.json" />
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>
